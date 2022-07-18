@@ -1,0 +1,13 @@
+{
+  "name": "yannickcawita/polylang-wc",
+  "type": "wordpress-plugin",
+  "homepage": "http://digital-agency.co",
+  "license": "GPLv3",
+  "description": "Evista Dedicated Plugin",
+  "keywords": ["plugin","evista"],
+  "config": {
+    "allow-plugins": {
+      "johnpbloch/wordpress-core-installer": true
+    }
+  }
+}
